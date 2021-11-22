@@ -166,7 +166,8 @@ def shell_transmission(Sig_s, Sig_a, Ri, Ro, N):
                 # neutron outside of sphere -> transmission
                 cum_nt += 1
                 break
-            
+        
+        
         arr[n] = cum_nt
         
     
