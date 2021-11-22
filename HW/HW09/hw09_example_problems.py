@@ -1,3 +1,4 @@
+
 print()
 print("--- EXAMPLE 1 - Nan with if-else ---------")
 import numpy as np
